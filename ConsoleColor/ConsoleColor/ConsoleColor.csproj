@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Authors>Sam</Authors>
+    <Company>My Company</Company>
+    <Copyright>MIT License</Copyright>
+    <Description>My Console Color</Description>
+    <PackageIconUrl>https://chiisen.github.io/image/github.io/cat-icon.png</PackageIconUrl>
+    <PackageProjectUrl>https://github.com/sam-liaw/ConsoleColor</PackageProjectUrl>
+    <PackageTags>C#, .Net Standard, Console Color</PackageTags>
+  </PropertyGroup>
+
+</Project>
